@@ -1,4 +1,8 @@
 {
   "item.firstmod.baalla": "Baalla",
-  "item.firstmod.abdelhamid": "Abdelhamid"
+  "item.firstmod.abdelhamid": "Abdelhamid",
+
+  "block.firstmod.baalla_block": "Baalla Block",
+
+  "creativetab.lhbal_tab": "Lhbal Tab"
 }

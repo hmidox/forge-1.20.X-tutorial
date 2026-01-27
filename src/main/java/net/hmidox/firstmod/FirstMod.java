@@ -1,6 +1,7 @@
 package net.hmidox.firstmod;
 
 import com.mojang.logging.LogUtils;
+import net.hmidox.firstmod.block.ModBlocks;
 import net.hmidox.firstmod.item.ModCreativeModTabs;
 import net.hmidox.firstmod.item.Moditems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -11,7 +12,6 @@ import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -33,6 +33,7 @@ public class FirstMod
         ModCreativeModTabs.register(modEventBus);
 
         Moditems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
