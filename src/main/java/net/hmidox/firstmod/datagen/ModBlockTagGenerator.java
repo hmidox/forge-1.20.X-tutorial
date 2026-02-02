@@ -30,7 +30,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 .add(ModBlocks.BAALLA_ORE.get(),
                         ModBlocks.ABDELHAMID_ORE.get(),
                         ModBlocks.BAALLA_BLOCK.get(),
-                        ModBlocks.ABDELHAMID_BLOCK.get());
+                        ModBlocks.ABDELHAMID_ORE.get());
 
         this.tag(BlockTags.MINEABLE_WITH_AXE)
                 .add(ModBlocks.SOUND_BLOCK.get());

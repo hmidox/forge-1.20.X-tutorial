@@ -15,8 +15,10 @@ import java.util.List;
 import java.util.function.Consumer;
 
 public class ModRecipeProvider extends RecipeProvider implements IConditionBuilder {
-    private static final List<ItemLike> ABDELHAMID_SMELTABLES = List.of(ModBlocks.ABDELHAMID_ORE.get());
-    private static final List<ItemLike> BAALLA_SMELTABLES = List.of(ModBlocks.BAALLA_ORE.get());
+    private static final List<ItemLike> ABDELHAMID_SMELTABLES = List.of(Moditems.ABDELHAMID.get(),
+            ModBlocks.ABDELHAMID_BLOCK.get(),ModBlocks.ABDELHAMID_ORE.get());
+private static final List<ItemLike> BAALLA_SMELTABLES = List.of(Moditems.BAALLA.get(),
+         ModBlocks.BAALLA_BLOCK.get(), ModBlocks.BAALLA_ORE.get());
 
     public ModRecipeProvider(PackOutput pOutput) {
         super(pOutput);
