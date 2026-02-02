@@ -1,0 +1,16 @@
+// 1.20.1	2026-02-02T03:03:53.7473382	Block States: firstmod
+c799fff5e58c079fa78ef4864b64ca8b86e3dbbe assets/firstmod/blockstates/abdelhamid_block.json
+9a2de4efe1885b24a26f86dad1b43024c2715957 assets/firstmod/blockstates/abdelhamid_ore.json
+0d15507bedad1760d9ff9e08ad30ff00d74cd4c1 assets/firstmod/blockstates/baalla_block.json
+b0dbf7d11d31c3d25f4154e3bea628e3b0f5d04a assets/firstmod/blockstates/baalla_ore.json
+8bc0de3a74684e63fdbb97ca8436ef6199ce4b01 assets/firstmod/blockstates/sound_block.json
+5914a882ab953aab0d6ed67d1710709df445124e assets/firstmod/models/block/abdelhamid_block.json
+2b44cb1c96a694930cb613ce93f0dce0164faf6e assets/firstmod/models/block/abdelhamid_ore.json
+fec643cf3516ba97be20495ae93e6d365d86ccb4 assets/firstmod/models/block/baalla_block.json
+ea5269f4e5d979aebf87b123336a1d9194e94392 assets/firstmod/models/block/baalla_ore.json
+820cba986b0ea64591b6b0032464dddf1427a074 assets/firstmod/models/block/sound_block.json
+b229646eef325e4a457fb93f28a113baacd2326a assets/firstmod/models/item/abdelhamid_block.json
+6922ce360eeda555449bb381e2b0a96016844a26 assets/firstmod/models/item/abdelhamid_ore.json
+c3890b3744f3ea3a33783629f63f0685c19ddb30 assets/firstmod/models/item/baalla_block.json
+9db51e42216a2b278358c5d7e99cb1d7d083fe81 assets/firstmod/models/item/baalla_ore.json
+66681315aefe235c956f5df745d0d6a04362afa8 assets/firstmod/models/item/sound_block.json

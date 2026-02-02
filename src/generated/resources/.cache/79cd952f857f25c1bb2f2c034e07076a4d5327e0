@@ -1,0 +1,8 @@
+// 1.20.1	2026-02-02T03:03:53.7393397	Tags for minecraft:block mod id firstmod
+00389384f09d5e03dd51b87376b63bed5ecb175d data/firstmod/tags/blocks/metal_detector_valuable.json
+cddb48682ae49544e01e2123d015a448cb13ebdc data/forge/tags/blocks/needs_netherite_tool.json
+a5c425b82d8520f7c14430bb1660baf3479db30a data/minecraft/tags/blocks/mineable/axe.json
+ae19179e3a80b674f9190bdef7f8fa710023c69c data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+05b578d895308963444cbd15f5ac5fbf894da74d data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json

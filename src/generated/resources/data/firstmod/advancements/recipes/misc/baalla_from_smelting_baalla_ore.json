@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_baalla_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "firstmod:baalla_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "firstmod:baalla_from_smelting_baalla_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_baalla_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "firstmod:baalla_from_smelting_baalla_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}
